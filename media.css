@@ -1,0 +1,216 @@
+
+/* Extra Small Devices, Phones */
+@media (max-width :1199px) {
+    .section-one{
+        background-image: url('../images/back.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 100vh;
+        padding-top: 150px;
+    }
+    .header{
+        padding: 80px 20px 30px;
+    }
+    .header h1{
+        text-align: center;
+        font-size: 6vh;
+    }
+    .header h2{
+        font-size: 3vh;
+        text-align: center;
+    }
+    .side-form form{
+        padding-top: 0px;
+        margin-right: 0px;
+    }
+
+    .side-form-input {
+        height: 100px;
+        width: 80%;
+        margin-bottom: 20px;
+        padding-right: 20px;
+        font-size: 2vh;
+    }
+    .side-form{
+        margin-bottom: 30px;
+    }
+    .side-form-submit{
+	    height: 100px;
+	    width: 80%;
+	}
+    .sub-box {
+        height: 300px;
+    }
+
+    .main-sub img {
+    	width: 80%;
+    }
+    .section-mac {
+        
+        padding: 70px 0px 30px 0px;
+    }
+
+    .cours-video span{
+        font-size: 6vh;
+    }
+    .cours-video p{
+        font-size: 1.8vh;
+    }
+    .imac a {
+        bottom: 23%;
+        right: 18%;
+    }
+    .cilabus {
+        background-color: #1D4187;
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    
+    .cilabus-form-wrapper {
+    padding: 10px 10px;
+    display: block;
+    
+}
+
+    .cilabus-form-input {
+        display: block;
+        font-size: 2vh;
+        margin: 20px auto;
+        width: 90%;
+        height: 100px;
+    }
+    .cilabus-form-submit {
+	    height: 100px;
+	    width: 90%;
+	}
+    .cilabus-form h4 {
+        margin-bottom: 30px;
+    }
+
+    .section-fore{
+        padding-top: 20px;
+        
+    }
+
+    .section-fore h3{
+        margin: 60px 0px 30px;
+    }
+
+    .benefit p{
+        font-size: 2.5vh;
+        padding: 10px 10px 30px;
+    }
+    .icon-box {
+        height: 300px;
+    }
+    .section-tree {
+        
+    }
+    
+    .section-tree img {
+        width: 18%;
+    }
+    .section-six {
+        
+    }
+    .logo {
+    margin-top: 0px;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+
+.caption p {
+    font-size: 2vh;
+}
+
+.thumbnail .caption .cilabus-form-submit {
+    
+    
+    
+}
+
+
+
+
+
+}
+
+
+/* Large Devices, Wide Screens */
+@media screen and (min-width : 1200px) and (max-width : 1699px) {
+    .header{
+        padding: 160px 80px;
+    }
+    .header h1{
+        font-size: 7vh;
+    }
+    .top-form form{
+        margin-right: 30px;
+    }
+    .side-form form{
+        padding-top: 200px;
+        display: block;
+        z-index: 1;
+        margin-right: 00px;
+        margin-bottom: 10px;
+    }
+    .section-fore p{
+        padding: 0px 20px 30px;
+    }
+    .section-fore{
+        
+        padding-top: 70px;
+    }
+    .icon-box {
+        
+    }
+    .section-tree {
+        padding-top: 30px;
+        color: white;
+    }
+    .logos img {
+        margin:10px 30px;
+    }
+    .boger-box p{
+        color : #666666;
+        font-size: 2vh;
+        padding: 40px;
+    }
+    .boger-box{
+        height: 300px;
+    }
+    .imac a {
+    bottom: 21%;
+    right: 17%;
+}
+
+.section-mac p{
+    padding: 0px 15px 30px 0px;
+    color : #666666;
+    font-size: 2.2vh;
+}
+
+.cours-video p{
+    color: #1D4187;
+    font-size: 2.5vh;
+    text-decoration: none;
+}
+#ouibounce-modal .dada , #popup .popup, #popup_onlaod .popup {
+    width: 70%;
+    height: 80%;
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media (min-width : 1700px) {
+
+
+
+
+}
